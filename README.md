@@ -37,3 +37,7 @@ Openthos为清华大学联合一铭软件公司、清华同方公司等合作研
 - 熟悉了Android系统的framework层的代码层次结构，对Android系统中的Activity窗口的创建过程有了一定的了解；
 
 - 熟悉了服务器开发过程，对各种工具的使用更加熟练；
+
+### 6、相关资料
+
+- 多窗口功能的移植，即系统升级的相关资料链接：[](https://github.com/QuZhongshan/oto-multiwin-update)
