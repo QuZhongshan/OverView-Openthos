@@ -40,4 +40,4 @@ Openthos为清华大学联合一铭软件公司、清华同方公司等合作研
 
 ### 6、相关资料
 
-- 多窗口功能的移植，即系统升级的相关资料链接：[https://github.com/QuZhongshan/oto-multiwin-update](https://github.com/QuZhongshan/oto-multiwin-update)
+- 多窗口功能的移植，即系统升级的相关资料链接：[https://github.com/openthos/oto-multiwin-update](https://github.com/openthos/oto-multiwin-update)
